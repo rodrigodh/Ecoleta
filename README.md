@@ -2,6 +2,8 @@
 
 Construído durante a NLW 01, Faz a ligação entre pontos de coleta de resíduos e pessoas.
 
+![Preview](https://i.imgur.com/X6aMvah.jpg)
+
 ## Inciando
 
 ### Pre-requisitos
