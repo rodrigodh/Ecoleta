@@ -1,0 +1,18 @@
+#page-created-point {
+  height: 100vh;
+  background-color: #333;
+}
+
+#content {
+  display: flex;
+  height: 100%;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+#content h1 {
+  color: #FFF;
+  margin-top: 32px;
+}
+
